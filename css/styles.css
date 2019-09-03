@@ -73,3 +73,79 @@
 #attShow {
   display: none;
 }
+
+#java {
+  cursor: pointer;
+}
+
+#operator {
+  cursor: pointer;
+}
+
+#variable {
+  cursor: pointer;
+}
+
+#VNC {
+  cursor: pointer;
+}
+
+#function {
+  cursor: pointer;
+}
+
+#method {
+  cursor: pointer;
+}
+
+#argument {
+  cursor: pointer;
+}
+
+#parameter {
+  cursor: pointer;
+}
+
+#return {
+  cursor: pointer;
+}
+
+#CM {
+  cursor: pointer;
+}
+
+#string {
+  cursor: pointer;
+}
+
+#boolean {
+  cursor: pointer;
+}
+
+#undefined {
+  cursor: pointer;
+}
+
+#NaN {
+  cursor: pointer;
+}
+
+#escape {
+  cursor: pointer;
+}
+
+#alert {
+  cursor: pointer;
+}
+
+#comment {
+  cursor: pointer;
+}
+
+#JQ {
+  cursor: pointer;
+}
+
+#attribute {
+  cursor: pointer;
+}
