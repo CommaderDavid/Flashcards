@@ -50,28 +50,48 @@ $(document).ready(function() {
     $("#chainShow").toggle();
   });
 
-  $("#java").click(function() {
-    $("#").toggle();
-    $("#").toggle();
+  $("#string").click(function() {
+    $("#stringHide").toggle();
+    $("#stringShow").toggle();
   });
 
-  $("#java").click(function() {
-    $("#").toggle();
-    $("#").toggle();
+  $("#boolean").click(function() {
+    $("#booHide").toggle();
+    $("#booShow").toggle();
   });
 
-  $("#java").click(function() {
-    $("#").toggle();
-    $("#").toggle();
+  $("#undefined").click(function() {
+    $("#undHide").toggle();
+    $("#undShow").toggle();
   });
 
-  $("#java").click(function() {
-    $("#").toggle();
-    $("#").toggle();
+  $("#NaN").click(function() {
+    $("#nanHide").toggle();
+    $("#nanShow").toggle();
   });
 
-  $("#java").click(function() {
-    $("#").toggle();
-    $("#").toggle();
+  $("#escape").click(function() {
+    $("#escHide").toggle();
+    $("#escShow").toggle();
+  });
+
+  $("#alert").click(function() {
+    $("#aleHide").toggle();
+    $("#aleShow").toggle();
+  });
+
+  $("#comment").click(function() {
+    $("#comHide").toggle();
+    $("#comShow").toggle();
+  });
+
+  $("#JQ").click(function() {
+    $("#jqHide").toggle();
+    $("#jqShow").toggle();
+  });
+
+  $("#attribute").click(function() {
+    $("#attHide").toggle();
+    $("#attShow").toggle();
   });
 });
